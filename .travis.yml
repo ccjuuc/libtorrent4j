@@ -162,4 +162,4 @@ deploy:
   skip_cleanup: true
   local_dir: swig/bin
   on:
-    all_branches: true
+    all_branches: false
